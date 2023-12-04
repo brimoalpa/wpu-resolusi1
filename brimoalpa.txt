@@ -1,0 +1,4 @@
+halo pak, salam kenal nama saya brimoalpa dari bogor
+
+resolusi saya :
+membuat AI dengan python
